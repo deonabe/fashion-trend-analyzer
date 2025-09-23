@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+requests
+beautifulsoup4
+praw
+pyarrow   # for parquet
+
